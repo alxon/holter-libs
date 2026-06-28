@@ -1,7 +1,7 @@
 {
     "versionCode": 9,
     "versionName": "1.0",
-    "apkUrl": "https://ddd/ddd/ddd.apk",
-    "releaseNotes": "Blah Blah",
+    "apkUrl": "https://github.com/alxon/holter-libs/releases/download/v9/app-debug-v9.apk",
+    "releaseNotes": "Test описание теста блабла блабла блабла блабла блабла блабла\n1. p1\n2. блаблаблабла блабла блабла блабла",
     "forceUpdate": false
 }
