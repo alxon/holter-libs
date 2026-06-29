@@ -1,5 +1,5 @@
 {
-    "versionCode": 10,
+    "versionCode": 11,
     "versionName": "1.0",
     "apkUrl": "https://github.com/alxon/holter-libs/releases/download/v10/app-debug-v10.apk",
     "releaseNotes": "1. Автообновление приложения\n2. Поправил дизайн экрана авторизации",
