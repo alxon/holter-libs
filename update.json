@@ -1,7 +1,7 @@
 {
-    "versionCode": 10,
+    "versionCode": 11,
     "versionName": "1.0",
-    "apkUrl": "https://github.com/alxon/holter-libs/releases/download/v10/app-debug-v10.apk",
-    "releaseNotes": "1. Автообновление приложения\n2. Улучшен дизайн экрана авторизации",
+    "apkUrl": "https://github.com/alxon/holter-libs/releases/download/11/app-debug-v11.apk",
+    "releaseNotes": "1. Переделан дизайн главного экрана: на табы\n2. Экран <Сегодня> лекарства и измерения за текущий день\n3. Экран <Статистика> пока это старый экран истории измерений\n4. Экран <Назначения> список лекарств для приема (пока пустой)\n5. Синхронизация лекарств с сервера",
     "forceUpdate": false
 }
