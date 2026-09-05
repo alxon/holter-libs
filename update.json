@@ -1,7 +1,7 @@
 {
-    "versionCode": 13,
+    "versionCode": 14,
     "versionName": "1.0",
-    "apkUrl": "https://github.com/alxon/holter-libs/releases/download/v13/app-debug-v13.apk",
-    "releaseNotes": "Добавлен холтер Tevium\nНа экране записи ЭКГ переход на поиск bluetooth устройства\nДизайн экранов АД, Запись ЭКГ, Глюкоза, Самочувствие\nПоиск и подключение устройств: показ списка сохраненных устройств (но не подключенных) для удаления\nМножество мелких изменений\nВыход из профиля - алерт для подтверждения выхода (данные ВСЕ удаляются)",
+    "apkUrl": "https://github.com/alxon/holter-libs/releases/download/v14/app-debug-v14.apk",
+    "releaseNotes": "1. Экран "Сегодня" - показ запланированных измерений\n2. Локализация - английский и немецкий",
     "forceUpdate": false
 }
