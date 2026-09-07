@@ -1,7 +1,7 @@
 {
-    "versionCode": 14,
+    "versionCode": 15,
     "versionName": "1.0",
-    "apkUrl": "https://github.com/alxon/holter-libs/releases/download/v14/app-debug-v14.apk",
-    "releaseNotes": "1. Экран Сегодня - показ запланированных измерений\n2. Локализация - английский и немецкий",
+    "apkUrl": "https://github.com/alxon/holter-libs/releases/download/v15/app-debug-v15.apk",
+    "releaseNotes": "Локализация - в настройках кнопка для открытия системных настроек выбора языка приложения\nВключена синхронизация с сервером",
     "forceUpdate": false
 }
