@@ -1,7 +1,7 @@
 {
-    "versionCode": 15,
+    "versionCode": 16,
     "versionName": "1.0",
-    "apkUrl": "https://github.com/alxon/holter-libs/releases/download/v15/app-debug-v15.apk",
-    "releaseNotes": "Локализация - в настройках кнопка для открытия системных настроек выбора языка приложения\nВключена синхронизация с сервером",
+    "apkUrl": "https://github.com/alxon/holter-libs/releases/download/v16/app-debug-v16.apk",
+    "releaseNotes": "Ручная запись ЭКГ:\n1 если связь с устройством терялась - то в некоторых случаях запись не включалась даже после коннекта с устройством\n2 показ батарейки для Tevium\n\nАвторизации - кнопка открытия настроек языка",
     "forceUpdate": false
 }
