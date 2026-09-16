@@ -1,7 +1,7 @@
 {
-    "versionCode": 17,
+    "versionCode": 19,
     "versionName": "1.0",
-    "apkUrl": "https://github.com/alxon/holter-libs/releases/download/v17/app-debug-v17.apk",
-    "releaseNotes": "1 В плашке мед плана кнопка обновления\n2 Поправлены ошибки",
+    "apkUrl": "https://github.com/alxon/holter-libs/releases/download/v19/app-debug-v19.apk",
+    "releaseNotes": "1 Экран <Назначения> - расписание приема лекарств\n2 Экран редактирования справочника времени приема и измерений (из настроек):\n3 Экран <Сегодня> - время для запланированных измерений заполняется из справочника (п2)\n4 План мед. Обслуживания переименован в Программа мониторинга\n5 Дизайн",
     "forceUpdate": false
 }
